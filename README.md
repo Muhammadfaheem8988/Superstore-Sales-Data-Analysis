@@ -1,15 +1,15 @@
 # Superstore-Sales-Data-Analysis
-**Overview:** This project analyzes a fictional retail Superstore dataset to uncover business insights on sales and profit. Using Python (Pandas, NumPy) for data processing and Matplotlib/Seaborn for visualization, we explore trends by region, category, time, and customer segment:contentReference[oaicite:3]{index=3}. The goal is to understand what drives revenue and profitability to inform strategic decisions:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.
+**Overview:** This project analyzes a fictional retail Superstore dataset to uncover business insights on sales and profit. Using Python (Pandas, NumPy) for data processing and Matplotlib/Seaborn for visualization, we explore trends by region, category, time, and customer segment:contentReference[oaicite:3]{index=3}. The goal is to understand what drives revenue and profitability to inform strategic decisions.
 
 ## Installation & Requirements
 1. Clone this repository.
 2. Ensure Python 3.7+ is installed.  
 3. Install required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`.  
-4. Download the dataset (`superstore.csv`) from the project link.  
+4. Download the dataset (`superstore.csv`) from the repository.  
 5. Open `analysis_notebook.ipynb` in Jupyter or Google Colab and run all cells.
 
 ## Data Source  
-- The dataset is a **Superstore sales record** (orders, products, and customers):contentReference[oaicite:6]{index=6}.  
+- The dataset is a **Superstore sales record** (orders, products, and customers).  
 - Data columns include Order ID, Date, Region, Category/Subcategory, Sales, Profit, Customer Segment, etc.  
 - Dataset is uploaded in the repository.
 
@@ -26,6 +26,6 @@
 
 
 ## Future Work  
-- Extend with predictive modeling (e.g., forecast future sales and profit):contentReference[oaicite:9]{index=9}.  
+- Extend with predictive modeling (e.g., forecast future sales and profit).  
 - Improve dashboards or add interactive visualizations.  
 - Explore pricing, discount, and customer behavior deeper.  
