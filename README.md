@@ -1,5 +1,5 @@
 # Superstore-Sales-Data-Analysis
-**Overview:** This project analyzes a fictional retail Superstore dataset to uncover business insights on sales and profit. Using Python (Pandas, NumPy) for data processing and Matplotlib/Seaborn for visualization, we explore trends by region, category, time, and customer segment:contentReference[oaicite:3]{index=3}. The goal is to understand what drives revenue and profitability to inform strategic decisions.
+**Overview:** This project analyzes a fictional retail Superstore dataset to uncover business insights on sales and profit. Using Python (Pandas, NumPy) for data processing and Matplotlib/Seaborn for visualization, we explore trends by region, category, time, and customer segment. The goal is to understand what drives revenue and profitability to inform strategic decisions.
 
 ## Installation & Requirements
 1. Clone this repository.
