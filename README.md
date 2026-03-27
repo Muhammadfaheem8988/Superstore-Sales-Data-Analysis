@@ -53,27 +53,21 @@ The notebook walks through things step by step:
 ```
 ├── Superstore_sales_data_Analysis.ipynb   # Main analysis notebook
 ├── Sample - Superstore.csv                # The dataset
-├── Requirnments.txt                       # Python dependencies
+├── requirements.txt                       # Python dependencies
 └── README.md                              # You're reading it
 ```
-
-## Installation & Requirements
-1. Clone this repository.
-2. Ensure Python 3.7+ is installed.  
-3. Install required libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`.  
-4. Download the dataset (`superstore.csv`) from the repository.  
-5. Open `analysis_notebook.ipynb` in Jupyter or Google Colab and run all cells.
 
 ## Getting Started
 
 1. Clone the repo:
    ```bash
    git clone https://github.com/Muhammadfaheem8988/Superstore-Sales-Data-Analysis.git
+   cd Superstore-Sales-Data-Analysis
    ```
 2. Make sure you have **Python 3.7+** installed.
 3. Install the dependencies:
    ```bash
-   pip install pandas numpy matplotlib seaborn chardet
+   pip install -r requirements.txt
    ```
 4. Open `Superstore_sales_data_Analysis.ipynb` in Jupyter Notebook or Google Colab and run the cells top to bottom.
  
